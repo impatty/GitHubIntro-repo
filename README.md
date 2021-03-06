@@ -1,3 +1,3 @@
 # Git and GitHub Intro
 
-I'm here to learn Git and GitHub
+I'm here to master Git and GitHub
